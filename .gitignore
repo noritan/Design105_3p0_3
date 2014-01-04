@@ -1,18 +1,13 @@
-# Object files
-*.o
-*.ko
+#
+# .gitignore file for PSoC Creator 3.0
+#
 
-# Libraries
-*.lib
-*.a
+# Log files
+*.log
+*.rpt
 
-# Shared objects (inc. Windows DLLs)
-*.dll
-*.so
-*.so.*
-*.dylib
+# Temp directry
+*/*.cydsn/codegentemp/*
 
-# Executables
-*.exe
-*.out
-*.app
+# Results
+*/*.cydsn/DP8051/*
