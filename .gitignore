@@ -7,7 +7,7 @@
 *.rpt
 
 # Temp directry
-*/*.cydsn/codegentemp/*
+*.cydsn/codegentemp/*
 
 # Results
-*/*.cydsn/DP8051/*
+*.cydsn/DP8051/*
